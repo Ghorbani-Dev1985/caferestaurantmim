@@ -40,17 +40,17 @@ const pagination = tv({
     {
       slots: ['item', 'prev', 'next'],
       size: 'xs',
-      class: 'w-7 h-7 text-xs' // --> these classes will be applied to all slots if size is xs
+      class: 'size-7 text-xs' // --> these classes will be applied to all slots if size is xs
     },
     {
       slots: ['item', 'prev', 'next'],
       size: 'sm',
-      class: 'w-8 h-8 text-sm' // --> these classes will be applied to all slots if size is sm
+      class: 'size-8 text-sm' // --> these classes will be applied to all slots if size is sm
     },
     {
       slots: ['item', 'prev', 'next'],
       size: 'md',
-      class: 'w-9 h-9 text-base' // --> these classes will be applied to all slots if size is md
+      class: 'size-9 text-base' // --> these classes will be applied to all slots if size is md
     }
   ]
 });
