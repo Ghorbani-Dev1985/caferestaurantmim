@@ -1,5 +1,6 @@
 import { NextUIProvider } from "@nextui-org/react"
 import { useNavigate } from "react-router-dom"
+import Header from "./UI/Header"
 
 
 
@@ -10,7 +11,7 @@ function App() {
   return (
     <>
       <NextUIProvider navigate={navigate}>
-
+          <Header />
       </NextUIProvider>
     </>
   )
