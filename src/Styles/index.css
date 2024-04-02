@@ -1,4 +1,5 @@
 @import './Font.css';
+@import './Swiper.css';
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

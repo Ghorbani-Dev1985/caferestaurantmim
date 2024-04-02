@@ -1,6 +1,8 @@
 import { NextUIProvider } from "@nextui-org/react"
-import { useNavigate } from "react-router-dom"
-import Header from "./UI/Header"
+import { Route, Routes, useNavigate } from "react-router-dom"
+import MainLayout from "./Layout/MainLayout"
+import Home from "./Pages/Home/Home"
+
 
 
 
@@ -11,7 +13,12 @@ function App() {
   return (
     <>
       <NextUIProvider navigate={navigate}>
-          <Header />
+        <Routes>
+          <Route element={<MainLayout />}>
+          <Route path="/" element={<Home />} />
+          </Route>
+        </Routes>
+
       </NextUIProvider>
     </>
   )
