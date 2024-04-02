@@ -8,7 +8,7 @@ const PreFooter = () => {
       <div className='container bg-preFooter flex-center'>
       <Image alt="ghorbani-dev.ir" src={TopPreFooter} className="object-fill rounded-none" />
         </div>
-       <div className='bg-primary p-4'>
+       <div className='bg-primary p-12'>
       <div className='container flex flex-col items-center gap-y-8 font-bold'>
           <h3 className='font-extrabold text-2xl'>ساعات فعالیت کافه رستوران میم</h3>
           <p className='flex-center gap-1'>
@@ -18,7 +18,7 @@ const PreFooter = () => {
           <Button color="secondary" size='lg' variant="bordered" startContent={<BiFoodMenu/>}>
         منو کافه رستوران میم
       </Button> 
-       <p>جهت مشاهده منو کافه ، رستوران میتوانید از لینک بالا استفاده نمایید</p> 
+       <p className='mb-10'>جهت مشاهده منو کافه ، رستوران میتوانید از لینک بالا استفاده نمایید</p> 
        </div>
       </div>
     </>
