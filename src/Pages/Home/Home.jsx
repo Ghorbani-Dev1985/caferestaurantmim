@@ -3,9 +3,9 @@ import Slider from '../../UI/Slider'
 
 const Home = () => {
   return (
-    <>
+    <div className='min-h-screen'>
     <Slider />
-    </>
+    </div>
   )
 }
 

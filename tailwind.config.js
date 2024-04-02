@@ -28,7 +28,7 @@ module.exports = {
           700: 'rgb(140, 98, 38)',
           800: 'rgb(100, 70, 27)',
           900: 'rgb(100, 70, 27)',
-          DEFAULT: "#CA903E",
+          DEFAULT: "#c58c3d",
            },
            secondary: '#303030',
            success: 'rgb(0 , 192 , 115)',
@@ -39,6 +39,9 @@ module.exports = {
         ShabnamFD: ["Shabnam-FD" , "sans-serif"],
         Shabnam: ["Shabnam" , "sans-serif"],
       },
+      backgroundImage: {
+        'preFooter' : 'url("../../src/Assets/Images/Footer/footerPatern.png")',
+    },
     },
     screens: {
       'xs': '480px',
@@ -51,7 +54,18 @@ module.exports = {
   plugins: [
     nextui({
      prefix: "crmim", 
-     addCommonColors: true, 
+     addCommonColors: true,
+     themes: {
+      light: {
+        screens: {
+          'xs': '480px',
+          'sm': '640px',
+          'md': '768px',
+          'lg': '1024px',
+          'xl': '1280px',
+        },
+      }
+     } 
   }),
   require("tailwind-scrollbar"),
 ]

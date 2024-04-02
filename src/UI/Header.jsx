@@ -54,7 +54,8 @@ const Header = () => {
          
         </div>
     </section>
-    <Navbar onMenuOpenChange={setIsMenuOpen} classNames={{wrapper: "max-w-[1280px] px-0"}}>
+
+<Navbar onMenuOpenChange={setIsMenuOpen} classNames={{base:"container rounded-lg top-5" , wrapper: "lg:max-w-[1280px] px-0"}}>
     <NavbarContent>
       <NavbarMenuToggle
         aria-label={isMenuOpen ? "Close menu" : "Open menu"}
@@ -108,6 +109,7 @@ const Header = () => {
       ))}
     </NavbarMenu>
   </Navbar>
+    
 </>
   )
 }
