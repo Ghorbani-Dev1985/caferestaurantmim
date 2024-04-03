@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import {Navbar, NavbarBrand, NavbarContent, NavbarItem, NavbarMenuToggle, NavbarMenu, NavbarMenuItem, Link, Button, Image} from "@nextui-org/react";
+import {Navbar, NavbarBrand, NavbarContent, NavbarItem, NavbarMenuToggle, NavbarMenu, NavbarMenuItem, Link, Button, Image, Divider} from "@nextui-org/react";
 import Logo from './../Assets/Images/Logo/logo2.webp';
 import { HiPhone } from "react-icons/hi";
 import { HiDeviceMobile } from "react-icons/hi";
@@ -38,7 +38,7 @@ const Header = () => {
    {
     id: 6,
     title: "ارتباط با ما",
-    link: "/",
+    link: "/contactUs",
    },
   ];
   return (
@@ -109,7 +109,7 @@ const Header = () => {
       ))}
     </NavbarMenu>
   </Navbar>
-    
+  <Divider className="mt-4 bg-primary/50" />
 </>
   )
 }

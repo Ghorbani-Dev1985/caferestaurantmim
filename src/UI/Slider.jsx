@@ -61,7 +61,7 @@ const Slider = () => {
         setIsEnd(true)
       }}
 
-       className="mySwiper my-5 relative">
+       className="mySwiper mb-5 relative">
         {SlideImageItems.map(({ id, href }) => (
           <SwiperSlide key={id}>
             <Image alt="ghorbani-dev.ir" src={href} className="object-fill rounded-none" />

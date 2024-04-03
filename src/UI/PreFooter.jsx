@@ -5,7 +5,7 @@ import TopPreFooter from './../Assets/Images/Footer/topPreFooter.webp'
 const PreFooter = () => {
   return (
     <>
-      <div className='container bg-preFooter flex-center'>
+      <div className='container bg-preFooter flex-center mt-16'>
       <Image alt="ghorbani-dev.ir" src={TopPreFooter} className="object-fill rounded-none" />
         </div>
        <div className='bg-primary p-12'>
