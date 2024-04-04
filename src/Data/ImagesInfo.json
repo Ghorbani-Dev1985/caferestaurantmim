@@ -2,203 +2,203 @@
     "images": [
         {
             "id": 1,
-            "href": "./../Assets/Images/Gallery/gallery01.webp"
+            "href": "src/Assets/Images/Gallery/gallery01.webp"
         },
         {
             "id": 2,
-            "href": "./../Assets/Images/Gallery/gallery02.webp"
+            "href": "src/Assets/Images/Gallery/gallery02.webp"
         },
         {
             "id": 3,
-            "href": "./../Assets/Images/Gallery/gallery03.jpg"
+            "href": "src/Assets/Images/Gallery/gallery03.jpg"
         },
         {
             "id": 4,
-            "href": "./../Assets/Images/Gallery/gallery04.webp"
+            "href": "src/Assets/Images/Gallery/gallery04.webp"
         },
         {
             "id": 5,
-            "href": "./../Assets/Images/Gallery/gallery05.jpg"
+            "href": "src/Assets/Images/Gallery/gallery05.jpg"
         },
         {
             "id": 6,
-            "href": "./../Assets/Images/Gallery/gallery06.jpg"
+            "href": "src/Assets/Images/Gallery/gallery06.jpg"
         },
         {
             "id": 7,
-            "href": "./../Assets/Images/Gallery/gallery07.webp"
+            "href": "src/Assets/Images/Gallery/gallery07.webp"
         },
         {
             "id": 8,
-            "href": "./../Assets/Images/Gallery/gallery08.jpg"
+            "href": "src/Assets/Images/Gallery/gallery08.jpg"
         },
         {
             "id": 9,
-            "href": "./../Assets/Images/Gallery/gallery09.jpg"
+            "href": "src/Assets/Images/Gallery/gallery09.jpg"
         },
         {
             "id": 10,
-            "href": "./../Assets/Images/Gallery/gallery10.webp"
+            "href": "src/Assets/Images/Gallery/gallery10.webp"
         },
         {
             "id": 11,
-            "href": "./../Assets/Images/Gallery/gallery11.jpg"
+            "href": "src/Assets/Images/Gallery/gallery11.jpg"
         },
         {
             "id": 12,
-            "href": "./../Assets/Images/Gallery/gallery12.webp"
+            "href": "src/Assets/Images/Gallery/gallery12.webp"
         },
         {
             "id": 13,
-            "href": "./../Assets/Images/Gallery/gallery13.webp"
+            "href": "src/Assets/Images/Gallery/gallery13.webp"
         },
         {
             "id": 14,
-            "href": "./../Assets/Images/Gallery/gallery14.webp"
+            "href": "src/Assets/Images/Gallery/gallery14.webp"
         },
         {
             "id": 15,
-            "href": "./../Assets/Images/Gallery/gallery15.jpg"
+            "href": "src/Assets/Images/Gallery/gallery15.jpg"
         },
         {
             "id": 16,
-            "href": "./../Assets/Images/Gallery/gallery16.webp"
+            "href": "src/Assets/Images/Gallery/gallery16.webp"
         },
         {
             "id": 17,
-            "href": "./../Assets/Images/Gallery/gallery17.jpg"
+            "href": "src/Assets/Images/Gallery/gallery17.jpg"
         },
         {
             "id": 18,
-            "href": "./../Assets/Images/Gallery/gallery18.jpg"
+            "href": "src/Assets/Images/Gallery/gallery18.jpg"
         },
         {
             "id": 19,
-            "href": "./../Assets/Images/Gallery/gallery19.webp"
+            "href": "src/Assets/Images/Gallery/gallery19.webp"
         },
         {
             "id": 20,
-            "href": "./../Assets/Images/Gallery/gallery20.jpg"
+            "href": "src/Assets/Images/Gallery/gallery20.jpg"
         },
         {
             "id": 21,
-            "href": "./../Assets/Images/Gallery/gallery21.jpg"
+            "href": "src/Assets/Images/Gallery/gallery21.jpg"
         },
         {
             "id": 22,
-            "href": "./../Assets/Images/Gallery/gallery22.jpg"
+            "href": "src/Assets/Images/Gallery/gallery22.jpg"
         },
         {
             "id": 23,
-            "href": "./../Assets/Images/Gallery/gallery23.jpg"
+            "href": "src/Assets/Images/Gallery/gallery23.jpg"
         },
         {
             "id": 24,
-            "href": "./../Assets/Images/Gallery/gallery24.webp"
+            "href": "src/Assets/Images/Gallery/gallery24.webp"
         },
         {
             "id": 25,
-            "href": "./../Assets/Images/Gallery/gallery25.jpg"
+            "href": "src/Assets/Images/Gallery/gallery25.jpg"
         },
         {
             "id": 26,
-            "href": "./../Assets/Images/Gallery/gallery26.webp"
+            "href": "src/Assets/Images/Gallery/gallery26.webp"
         },
         {
             "id": 27,
-            "href": "./../Assets/Images/Gallery/gallery27.jpg"
+            "href": "src/Assets/Images/Gallery/gallery27.jpg"
         },
         {
             "id": 28,
-            "href": "./../Assets/Images/Gallery/gallery28.jpg"
+            "href": "src/Assets/Images/Gallery/gallery28.jpg"
         },
         {
             "id": 29,
-            "href": "./../Assets/Images/Gallery/gallery29.webp"
+            "href": "src/Assets/Images/Gallery/gallery29.webp"
         },
         {
             "id": 30,
-            "href": "./../Assets/Images/Gallery/gallery30.webp"
+            "href": "src/Assets/Images/Gallery/gallery30.webp"
         },
         {
             "id": 31,
-            "href": "./../Assets/Images/Gallery/gallery31.jpg"
+            "href": "src/Assets/Images/Gallery/gallery31.jpg"
         },
         {
             "id": 32,
-            "href": "./../Assets/Images/Gallery/gallery32.jpg"
+            "href": "src/Assets/Images/Gallery/gallery32.jpg"
         },
         {
             "id": 33,
-            "href": "./../Assets/Images/Gallery/gallery33.jpg"
+            "href": "src/Assets/Images/Gallery/gallery33.jpg"
         },
         {
             "id": 34,
-            "href": "./../Assets/Images/Gallery/gallery34.webp"
+            "href": "src/Assets/Images/Gallery/gallery34.webp"
         },
         {
             "id": 35,
-            "href": "./../Assets/Images/Gallery/gallery35.webp"
+            "href": "src/Assets/Images/Gallery/gallery35.webp"
         },
         {
             "id": 36,
-            "href": "./../Assets/Images/Gallery/gallery36.webp"
+            "href": "src/Assets/Images/Gallery/gallery36.webp"
         },
         {
             "id": 37,
-            "href": "./../Assets/Images/Gallery/gallery37.jpg"
+            "href": "src/Assets/Images/Gallery/gallery37.jpg"
         },
         {
             "id": 38,
-            "href": "./../Assets/Images/Gallery/gallery38.jpg"
+            "href": "src/Assets/Images/Gallery/gallery38.jpg"
         },
         {
             "id": 39,
-            "href": "./../Assets/Images/Gallery/gallery39.jpg"
+            "href": "src/Assets/Images/Gallery/gallery39.jpg"
         },
         {
             "id": 40,
-            "href": "./../Assets/Images/Gallery/gallery40.webp"
+            "href": "src/Assets/Images/Gallery/gallery40.webp"
         },
         {
             "id": 41,
-            "href": "./../Assets/Images/Gallery/gallery41.jpg"
+            "href": "src/Assets/Images/Gallery/gallery41.jpg"
         },
         {
             "id": 42,
-            "href": "./../Assets/Images/Gallery/gallery42.jpg"
+            "href": "src/Assets/Images/Gallery/gallery42.jpg"
         },
         {
             "id": 43,
-            "href": "./../Assets/Images/Gallery/gallery43.jpg"
+            "href": "src/Assets/Images/Gallery/gallery43.jpg"
         },
         {
             "id": 44,
-            "href": "./../Assets/Images/Gallery/gallery44.jpg"
+            "href": "src/Assets/Images/Gallery/gallery44.jpg"
         },
         {
             "id": 45,
-            "href": "./../Assets/Images/Gallery/gallery45.webp"
+            "href": "src/Assets/Images/Gallery/gallery45.webp"
         },
         {
             "id": 46,
-            "href": "./../Assets/Images/Gallery/gallery46.jpg"
+            "href": "src/Assets/Images/Gallery/gallery46.jpg"
         },
         {
             "id": 47,
-            "href": "./../Assets/Images/Gallery/gallery47.webp"
+            "href": "src/Assets/Images/Gallery/gallery47.webp"
         },
         {
             "id": 48,
-            "href": "./../Assets/Images/Gallery/gallery48.webp"
+            "href": "src/Assets/Images/Gallery/gallery48.webp"
         },
         {
             "id": 49,
-            "href": "./../Assets/Images/Gallery/gallery49.webp"
+            "href": "src/Assets/Images/Gallery/gallery49.webp"
         },
         {
             "id": 50,
-            "href": "./../Assets/Images/Gallery/gallery50.webp"
+            "href": "src/Assets/Images/Gallery/gallery50.webp"
         }
     ]
 }
