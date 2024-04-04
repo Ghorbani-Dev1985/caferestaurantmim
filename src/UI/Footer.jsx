@@ -14,7 +14,7 @@ const Footer = () => {
     </div>
           
     <Image alt="ghorbani-dev.ir" src={Logo} className="object-fill rounded-none mt-6" />
-     <AddressItems />
+     <div className='text-white space-y-10'><AddressItems /></div>
         </div>
     </div>
     </footer>
@@ -26,12 +26,12 @@ export default Footer
 function AddressItems(){
   return(
     <>
-    <Link href="tel:09124366107" size='lg' className='flex-center text-base md:text-xl gap-1 text-white'><BiMobileAlt className="size-6 text-primary-500"/>میلاد نیک سرشت 09124366107 ( مدیریت )</Link>
+    <Link href="tel:09124366107" size='lg' className='flex-center text-base md:text-xl gap-1 text-inherit'><BiMobileAlt className="size-6 text-primary-500"/>میلاد نیک سرشت 09124366107 ( مدیریت )</Link>
     <div className='flex-between gap-x-20 md:gap-x-36'>
-    <Link href="tel:01332265593" className='flex-center text-xl gap-1 text-white'> <HiPhone className="size-5 text-primary-500 rotate-[265deg]"/> 32265593</Link>
-         <Link href="tel:01332231879" className='flex-center text-xl gap-1 text-white'> <HiPhone className="size-5 text-primary-500 rotate-[265deg]"/> 32231879</Link>
+    <Link href="tel:01332265593" className='flex-center text-xl gap-1 text-inherit'> <HiPhone className="size-5 text-primary-500 rotate-[265deg]"/> 32265593</Link>
+         <Link href="tel:01332231879" className='flex-center text-xl gap-1 text-inherit'> <HiPhone className="size-5 text-primary-500 rotate-[265deg]"/> 32231879</Link>
     </div>
-    <p className='flex-center gap-x-1 text-xl text-white'><HiOutlineLocationMarker className='size-6 text-primary-500' /> <span>رشت ،خیابان لاکانی نبش بن بست شاد</span></p>
+    <p className='flex-center gap-x-1 text-xl'><HiOutlineLocationMarker className='size-6 text-primary-500' /> <span>رشت ،خیابان لاکانی نبش بن بست شاد</span></p>
     </>
   )
 }
