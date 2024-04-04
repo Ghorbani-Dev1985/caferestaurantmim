@@ -33,7 +33,7 @@ const Header = () => {
    {
     id: 5,
     title: "گالری",
-    link: "/",
+    link: "/imageGallery",
    },
    {
     id: 6,
