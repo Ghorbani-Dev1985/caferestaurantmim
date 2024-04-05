@@ -2,6 +2,7 @@ import React from 'react'
 import Topmenu from '../../Feature/CafeMenu/Topmenu'
 import Coffee from '../../Feature/CafeMenu/Coffee';
 import Hot from '../../Feature/CafeMenu/Hot';
+import Damnoosh from '../../Feature/CafeMenu/Damnoosh';
 
 const CafeMenu = () => {
   return (
@@ -11,6 +12,7 @@ const CafeMenu = () => {
      <Topmenu />
      <Coffee />
      <Hot />
+     <Damnoosh />
     </section>
       </>
   )
