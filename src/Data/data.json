@@ -558,5 +558,75 @@
         "price":  120000,
         "subTitle": "(بستنی کارامل ،چوب شور،شیر،خامه)"
         }
+    ],
+    "smoothie": [
+        {
+        "id": 1,
+        "src": "src/Assets/Images/Smoothie/smoothie-01.webp",
+        "title": " آبمیوه فصل",
+        "price":  100000
+        },
+        {
+        "id": 2,
+        "src": "src/Assets/Images/Smoothie/smoothie-02.webp",
+        "title": " اسموتی زرد آلو",
+        "price":  115000,
+        "subTitle": "(زردآلو،آلو خاکی،زعفران،پرتقال،ماست میوه ای)"
+        },
+        {
+        "id": 3,
+        "src": "src/Assets/Images/Smoothie/smoothie-03.webp",
+        "title": " اسموتی انبه پشن فروت",
+        "price":  120000,
+        "subTitle": "(انبه،پشن فروت،پرتقال،آناناس)"
+        },
+        {
+        "id": 4,
+        "src": "src/Assets/Images/Smoothie/smoothie-04.webp",
+        "title": " اسموتی اخته تمشک",
+        "price":  130000,
+        "subTitle": "(اخته،تمشک،لیمو،میکس میوه قرمز)"
+        },
+        {
+        "id": 5,
+        "src": "src/Assets/Images/Smoothie/smoothie-05.webp",
+        "title": " اسموتی استوایی",
+        "price":  130000,
+        "subTitle": "(انبه،موز،توت فرنگی،هلو،آناناس)"
+        },
+        {
+        "id": 6,
+        "src": "src/Assets/Images/Smoothie/smoothie-06.webp",
+        "title": " اسموتی سیب موز",
+        "price":  120000,
+        "subTitle": "(سیب ترش،موز،آب سیب)"
+        },
+        {
+        "id": 7,
+        "src": "src/Assets/Images/Smoothie/smoothie-07.webp",
+        "title": " لیموناد",
+        "price":  75000,
+        "subTitle": "(لیمو،یخ،سودا)"
+        },
+        {
+        "id": 8,
+        "src": "src/Assets/Images/Smoothie/smoothie-08.webp",
+        "title": " اسموتی لواشک",
+        "price":  120000,
+        "subTitle": "(لواشک،آب زرشک،یخ)"
+        },
+        {
+        "id": 9,
+        "src": "src/Assets/Images/Smoothie/smoothie-09.webp",
+        "title": "موهیتو اسموتی",
+        "price":  85000,
+        "subTitle": "(لیمو،نعنا،یخ)"
+        },
+        {
+        "id": 10,
+        "src": "src/Assets/Images/Smoothie/smoothie-10.webp",
+        "title": "موهیتو فصل ",
+        "price":  110000
+        }
     ]
 }
