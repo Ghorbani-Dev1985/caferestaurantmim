@@ -706,5 +706,37 @@
         "title": " طعم دهنده",
         "price":  20000
         }
+    ],
+    "cake" : [
+        {
+        "id": 1,
+        "src": "src/Assets/Images/Cake/cake-01.jpg",
+        "title": " کیک روز",
+        "price":  78000 
+        },
+        {
+        "id": 2,
+        "src": "src/Assets/Images/Cake/cake-02.webp",
+        "title": "  کیک بستنی",
+        "price":  180000 
+        },
+        {
+        "id": 3,
+        "src": "src/Assets/Images/Cake/cake-03.jpg",
+        "title": "چیز کیک",
+        "price":  88000 
+        },
+        {
+        "id": 4,
+        "src": "src/Assets/Images/Cake/cake-04.webp",
+        "title": " آفاگاتو",
+        "price":  90000 
+        },
+        {
+        "id": 5,
+        "src": "src/Assets/Images/Cake/cake-05.webp",
+        "title": " بستنی اسپشیال میم",
+        "price":  150000 
+        }
     ]
 }
