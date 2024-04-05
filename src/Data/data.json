@@ -628,5 +628,83 @@
         "title": "موهیتو فصل ",
         "price":  110000
         }
+    ],
+    "iceCoffee":[
+        {
+        "id": 1,
+        "src": "src/Assets/Images/IceCoffee/IceCoffee-01.jpg",
+        "title": " آیس آمریکانو ",
+        "price":  70000,
+        "subTitle": "(اسپرسو،آب،یخ)"
+        },
+        {
+        "id": 2,
+        "src": "src/Assets/Images/IceCoffee/IceCoffee-02.webp",
+        "title": " فراپاچینو ",
+        "price":  98000,
+        "subTitle": "(اسپرسو،بستنی وانیل،خامه،یخ)"
+        },
+        {
+        "id": 3,
+        "src": "src/Assets/Images/IceCoffee/IceCoffee-03.jpg",
+        "title": " آیس لاته ",
+        "price":  79000,
+        "subTitle": "(اسپرسو،شیر،یخ)"
+        },
+        {
+        "id": 4,
+        "src": "src/Assets/Images/IceCoffee/IceCoffee-04.webp",
+        "title": " هایپ اسپرسو ",
+        "price":  99000,
+        "subTitle": "(اسپرسو،هایپ،یخ)"
+        },
+        {
+        "id": 5,
+        "src": "src/Assets/Images/IceCoffee/IceCoffee-05.webp",
+        "title": " آیس موکا",
+        "price":  85000,
+        "subTitle": "(اسپرسو،شیر،شکلات،یخ)"
+        },
+        {
+        "id": 6,
+        "src": "src/Assets/Images/IceCoffee/IceCoffee-06.jpg",
+        "title": " آیس کوکولاته",
+        "price":  90000,
+        "subTitle": "شیر نارگیل ، قهوه ، یخ"
+        },
+        {
+        "id": 7,
+        "src": "src/Assets/Images/IceCoffee/IceCoffee-07.jpg",
+        "title": " آیس اسنیکرز",
+        "price":  105000,
+        "subTitle": "(شیر، قهوه ، یخ، سیروپ کارامل ، کره بادام زمینی)"
+        },
+        {
+        "id": 8,
+        "src": "src/Assets/Images/IceCoffee/IceCoffee-08.webp",
+        "title": " آیس موکانارگیل",
+        "price":  100000,
+        "subTitle": "شیر نارگیل ، قهوه ، سس شکلات"
+        },
+        {
+        "id": 9,
+        "src": "src/Assets/Images/IceCoffee/IceCoffee-09.webp",
+        "title": " آیس موکافندق ",
+        "price":  100000,
+        "subTitle": "شیر ، قهوه ، سس شکلات، سیروب فندق"
+        },
+        {
+        "id": 10,
+        "src": "src/Assets/Images/IceCoffee/IceCoffee-10.jpg",
+        "title": " آیس کارامل ماکیاتو",
+        "price":  90000,
+        "subTitle": "حجم شیر کم ، قهوه ، سیروب کارامل"
+        },
+        {
+        "id": 11,
+        "src": "src/Assets/Images/IceCoffee/IceCoffee-11.webp",
+        "title": " طعم دهنده",
+        "price":  20000
+        }
     ]
 }
