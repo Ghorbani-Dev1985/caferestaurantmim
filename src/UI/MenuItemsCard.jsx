@@ -1,5 +1,5 @@
 import React from "react";
-import { Image } from "@nextui-org/react";
+import { Image , Divider} from "@nextui-org/react";
 const MenuItemsCard = ({ src, title, price, subTitle }) => {
   return (
     <>
@@ -14,11 +14,11 @@ const MenuItemsCard = ({ src, title, price, subTitle }) => {
           />
         </div>
         <div className="flex flex-col flex-1 font-extrabold ">
-          <div className="flex">
+          <div className="flex items-center">
             <span className="flex flex-1 text-nowrap">{title}</span>
             <Divider className="mx-3 shrink" />
             <p className="flex-center">
-              {price && price.toLocalString()}
+              {price && price.toLocaleString()}
               <span>تومان</span>
             </p>
           </div>

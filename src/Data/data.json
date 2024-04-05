@@ -200,5 +200,120 @@
             "id": 50,
             "href": "src/Assets/Images/Gallery/gallery50.webp"
         }
+    ],
+    "coffeeMenu":[
+      {
+        "id": 1,
+         "src": "src/Assets/Images/Coffee/coffee01.webp",
+         "title": "اسپرسو",
+         "price": 65000
+      },
+      {
+        "id": 2,
+         "src": "src/Assets/Images/Coffee/coffee02.webp",
+         "title": "کاپوچینو",
+         "price":  75000,
+         "subTitle": "حجم شیر بالانس ، قهوه"
+      },
+      {
+        "id": 3,
+         "src": "src/Assets/Images/Coffee/coffee03.webp",
+         "title": "اسپرسو کن پانا",
+         "price":  70000
+      },
+      {
+        "id": 4,
+         "src": "src/Assets/Images/Coffee/coffee04.webp",
+         "title": "موکا",
+         "price":  880000
+      }
+      ,
+      {
+        "id": 5,
+         "src": "src/Assets/Images/Coffee/coffee05.webp",
+         "title": "آمریکانو",
+         "price":  680000
+      },
+      {
+        "id": 6,
+         "src": "src/Assets/Images/Coffee/coffee06.webp",
+         "title": "شیرنسکافه",
+         "price":  750000
+      },
+      {
+        "id": 7,
+         "src": "src/Assets/Images/Coffee/coffee07.webp",
+         "title": "فلت وایت",
+         "price":  780000,
+         "subTitle": "حجم شیر بالانس ، قهوه کم"
+      },
+      {
+        "id": 8,
+         "src": "src/Assets/Images/Coffee/coffee08.webp",
+         "title": "طعم دهنده",
+         "price":  20000
+      },
+      {
+        "id": 9,
+         "src": "src/Assets/Images/Coffee/coffee09.webp",
+         "title": "لاته",
+         "price":  780000,
+         "subTitle": "حجم زیاد شیر ، قهوه"
+      },
+      {
+        "id": 10,
+         "src": "src/Assets/Images/Coffee/coffee10.webp",
+         "title": "نوشیدنی گرم باریستا",
+         "price":  105000
+      },
+      {
+        "id": 11,
+         "src": "src/Assets/Images/Coffee/coffee11.webp",
+         "title": "کوکولاته ",
+         "price":  95000,
+         "subTitle": "شیر نارگیل،قهوه"
+      },
+      {
+        "id": 12,
+         "src": "src/Assets/Images/Coffee/coffee12.webp",
+         "title": "اسپرسو ماکیاتو",
+         "price":  70000,
+         "subTitle": "قهوه ،لکه ای شیر"
+      },
+      {
+        "id": 13,
+         "src": "src/Assets/Images/Coffee/coffee13.webp",
+         "title": " لاته کارامل بادام زمینی",
+         "price":  95000,
+         "subTitle": "شیر،قهوه،سیروپ کارامل،کره بادام زمینی"
+      },
+      {
+        "id": 14,
+         "src": "src/Assets/Images/Coffee/coffee14.webp",
+         "title": " کورتادو",
+         "price":  70000,
+         "subTitle": "حجم کم شیر ، قهوه"
+      },
+      {
+        "id": 15,
+         "src": "src/Assets/Images/Coffee/coffee15.webp",
+         "title": " موکا نارگیل",
+         "price":  95000,
+         "subTitle": "شیر نارگیل،قهوه،سیروپ نارگیل ،سس شکلات"
+      },
+      {
+        "id": 16,
+         "src": "src/Assets/Images/Coffee/coffee16.webp",
+         "title": " کارامل ماکیاتو ",
+         "price":  89000,
+         "subTitle": " ( حجم شیر کم ، قهوه ، سیروپ کارامل)"
+      },
+      {
+        "id": 17,
+         "src": "src/Assets/Images/Coffee/coffee17.jpg",
+         "title": " موکا فندق",
+         "price":  95000,
+         "subTitle": " شیر،قهوه، سیروپ فندق،سس شکلات"
+      }
     ]
 }

@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Title from "../../UI/Title";
-import ImageItems from "./../../Data/ImagesInfo.json";
+import ImageItems from "./../../Data/data.json";
 import { Image, useDisclosure } from "@nextui-org/react";
 import LightBoxModal from "../../UI/LightBoxModal";
 const ImageGallery = () => {

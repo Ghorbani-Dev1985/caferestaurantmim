@@ -8,6 +8,9 @@
     * {
         @apply p-0 m-0 box-border;
       }
+      html{
+        scroll-behavior: smooth;
+      }
       li{
         @apply list-none
       }
