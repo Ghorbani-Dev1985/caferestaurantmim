@@ -27,7 +27,7 @@ const topMenuItems = [
   {
     id: 5,
     src: "src/Assets/Images/CafeMenu/cafeMenu-05.webp",
-    link: "asoti",
+    link: "smoothie",
   },
   {
     id: 6,

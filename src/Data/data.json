@@ -472,5 +472,91 @@
         "title": " چای سبز جاسمین",
         "price":  65000
         }
+    ],
+    "milkShake": [
+        {
+        "id": 1,
+        "src": "src/Assets/Images/MilkShake/milkShake-01.webp",
+        "title": " نوتلا توت فرنگی",
+        "price":  140000,
+        "subTitle": "(بستنی وانیل،توت فرنگی،نوتلا،شیر،خامه)"
+        },
+        {
+        "id": 2,
+        "src": "src/Assets/Images/MilkShake/milkShake-02.webp",
+        "title": " نسکافه",
+        "price":  115000,
+        "subTitle": "(بستنی نسکافه،شیر،خامه)"
+        },
+        {
+        "id": 3,
+        "src": "src/Assets/Images/MilkShake/milkShake-03.webp",
+        "title": " توت فرنگی",
+        "price":  115000,
+        "subTitle": "(بستنی توت فرنگی،شیر،خامه)"
+        },
+        {
+        "id": 4,
+        "src": "src/Assets/Images/MilkShake/milkShake-04.webp",
+        "title": " شیک اورئو",
+        "price":  125000,
+        "subTitle": "(بستنی وانیل،بیسکوییت اورئو،شیر،خامه)"
+        },
+        {
+        "id": 5,
+        "src": "src/Assets/Images/MilkShake/milkShake-05.jpg",
+        "title": " نوتلا موز",
+        "price":  140000,
+        "subTitle": "(بستنی وانیل،موز،نوتلا،شیر،خامه)"
+        },
+        {
+        "id": 6,
+        "src": "src/Assets/Images/MilkShake/milkShake-06.webp",
+        "title": " موز شکلات",
+        "price":  125000,
+        "subTitle": "(بستنی شکلات،موز،شیر،خامه)"
+        },
+        {
+        "id": 7,
+        "src": "src/Assets/Images/MilkShake/milkShake-07.webp",
+        "title": " نوتلا ",
+        "price":  130000,
+        "subTitle": "(بستنی وانیل،نوتلا،شیر ،خامه)"
+        },
+        {
+        "id": 8,
+        "src": "src/Assets/Images/MilkShake/milkShake-08.webp",
+        "title": " کیت کت ",
+        "price":  130000,
+        "subTitle": "(بستنی شکلاتی ،شکلات کیت کت،،شیر،خامه)"
+        },
+        {
+        "id": 9,
+        "src": "src/Assets/Images/MilkShake/milkShake-09.webp",
+        "title": " نوتلا سوربن",
+        "price":  115000,
+        "subTitle": "(بستنی وانیل،نوتلا سوربن،شیر،خامه)"
+        },
+        {
+        "id": 10,
+        "src": "src/Assets/Images/MilkShake/milkShake-10.webp",
+        "title": " انبه",
+        "price":  120000,
+        "subTitle": "(بستنی وانیل،انبه،شیر،خامه)"
+        },
+        {
+        "id": 11,
+        "src": "src/Assets/Images/MilkShake/milkShake-11.jpg",
+        "title": " اسنیکرز",
+        "price":  140000,
+        "subTitle": "(بستنی شکلات،اسنیکرز،شیر،خامه)"
+        },
+        {
+        "id": 12,
+        "src": "src/Assets/Images/MilkShake/milkShake-12.webp",
+        "title": " کارامل نمکی",
+        "price":  120000,
+        "subTitle": "(بستنی کارامل ،چوب شور،شیر،خامه)"
+        }
     ]
 }
