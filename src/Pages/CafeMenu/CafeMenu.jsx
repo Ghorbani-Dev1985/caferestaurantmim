@@ -1,8 +1,7 @@
 import React from 'react'
 import Topmenu from '../../Feature/CafeMenu/Topmenu'
-import coffee1 from './../../Assets/Images/Coffee/coffee01.webp'
-import { Image , Divider} from "@nextui-org/react";
 import Coffee from '../../Feature/CafeMenu/Coffee';
+import Hot from '../../Feature/CafeMenu/Hot';
 
 const CafeMenu = () => {
   return (
@@ -11,6 +10,7 @@ const CafeMenu = () => {
         {/* Top menu */}
      <Topmenu />
      <Coffee />
+     <Hot />
     </section>
       </>
   )

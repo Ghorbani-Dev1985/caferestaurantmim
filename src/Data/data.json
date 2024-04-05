@@ -268,7 +268,7 @@
       },
       {
         "id": 11,
-         "src": "src/Assets/Images/Coffee/coffee11.webp",
+         "src": "src/Assets/Images/Coffee/coffee12.webp",
          "title": "کوکولاته ",
          "price":  95000,
          "subTitle": "شیر نارگیل،قهوه"
@@ -315,5 +315,44 @@
          "price":  95000,
          "subTitle": " شیر،قهوه، سیروپ فندق،سس شکلات"
       }
+    ],
+    "hotMenu": [
+        {
+        "id": 1,
+        "src": "src/Assets/Images/Hot/hot-01.webp",
+        "title": " شیر شکلات ",
+        "price":  85000
+        },
+        {
+        "id": 2,
+        "src": "src/Assets/Images/Hot/hot-02.webp",
+        "title": " هات چاکلت",
+        "price":  90000,
+        "subTitle": " وایت | پینک | دارک"
+        },
+        {
+        "id": 3,
+        "src": "src/Assets/Images/Hot/hot-03.webp",
+        "title": "  ماسالا",
+        "price":  80000
+        },
+        {
+        "id": 4,
+        "src": "src/Assets/Images/Hot/hot-04.webp",
+        "title": "  چای لاته",
+        "price":  78000
+        },
+        {
+        "id": 5,
+        "src": "src/Assets/Images/Hot/hot-05.jpg",
+        "title": "  نوتلاسینامون",
+        "price":  89000
+        },
+        {
+        "id": 6,
+        "src": "src/Assets/Images/Hot/hot-06.webp",
+        "title": "  طعم دهنده",
+        "price":  20000
+        }
     ]
 }
