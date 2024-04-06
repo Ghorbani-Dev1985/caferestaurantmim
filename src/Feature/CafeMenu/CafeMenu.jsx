@@ -8,6 +8,7 @@ import Smoothie from './Smoothie';
 import IceCoffee from './IceCoffee';
 import Cake from './Cake';
 import Vafel from './Vafel';
+import Makatel from './Makatel';
 
 const CafeMenu = () => {
   return (
@@ -23,6 +24,7 @@ const CafeMenu = () => {
      <IceCoffee />
      <Cake />
      <Vafel />
+     <Makatel />
     </section>
       </>
   )

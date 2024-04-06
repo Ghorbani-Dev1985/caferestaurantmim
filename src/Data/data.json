@@ -758,5 +758,124 @@
         "title": "وافل کره بادام زمینی",
         "price":  150000 
         }
+    ],
+    "makatel": [
+        {
+        "id": 1,
+        "src": "src/Assets/Images/Makatel/makatel-01.webp",
+        "title": "ماکتل بار تندر",
+        "price":  120000 
+        },
+        {
+        "id": 2,
+        "src": "src/Assets/Images/Makatel/makatel-02.webp",
+        "title": " رزبری مارگایتا ",
+        "price":  95000,
+        "subTitle": "تریپل سک، آگاوه،رزبری،لیمو،یخ" 
+        },
+        {
+        "id": 3,
+        "src": "src/Assets/Images/Makatel/makatel-03.webp",
+        "title": " پینا ملون ",
+        "price":  105000,
+        "subTitle": "هندونه ، آناناس ، پرتغال" 
+        },
+        {
+        "id": 4,
+        "src": "src/Assets/Images/Makatel/makatel-04.webp",
+        "title": " مارگاریتا",
+        "price":  85000,
+        "subTitle": "تریپل سک،آگاوه ، لیمو،یخ" 
+        },
+        {
+        "id": 5,
+        "src": "src/Assets/Images/Makatel/makatel-05.webp",
+        "title": " بلک موهیتو",
+        "price":  110000,
+        "subTitle": "تمشک ، لایم ، سیروپ رام ، سودا" 
+        },
+        {
+        "id": 6,
+        "src": "src/Assets/Images/Makatel/makatel-06.webp",
+        "title": " لیدی رز ",
+        "price":  90000,
+        "subTitle": "سیروپ رز،سیروپ رام، لایم ، آلوئورا،سودا" 
+        },
+        {
+        "id": 7,
+        "src": "src/Assets/Images/Makatel/makatel-07.webp",
+        "title": "  رد موهیتو ",
+        "price":  100000,
+        "subTitle": " توت فرنگی ، لایم ، نعنا یخی، سودا" 
+        },
+        {
+        "id": 8,
+        "src": "src/Assets/Images/Makatel/makatel-08.webp",
+        "title": " اسپرسو مارتینی ",
+        "price":  90000,
+        "subTitle": "اسپرسو،سیروپ رام" 
+        },
+        {
+        "id": 9,
+        "src": "src/Assets/Images/Makatel/makatel-09.webp",
+        "title": " موهیتو کوبایی ",
+        "price":  85000,
+        "subTitle": "نعنا یخی، لایم ، سیروپ رام، سودا" 
+        },
+        {
+        "id": 10,
+        "src": "src/Assets/Images/Makatel/makatel-10.webp",
+        "title": " کوبالیره ",
+        "price":  50000,
+        "subTitle": "لایم ، سیروپ رام ، کوکا" 
+        },
+        {
+        "id": 11,
+        "src": "src/Assets/Images/Makatel/makatel-11.webp",
+        "title": " موهیتو فصلی ",
+        "price":  110000,
+        "subTitle": "میوه انتخابی ، نعناع یخی، لایم ، سودا" 
+        },
+        {
+        "id": 12,
+        "src": "src/Assets/Images/Makatel/makatel-12.webp",
+        "title": "  باتانگاه ",
+        "price":  50000,
+        "subTitle": " لایم ، سیروپ آگاوه، کوکا" 
+        },
+        {
+        "id": 13,
+        "src": "src/Assets/Images/Makatel/makatel-13.webp",
+        "title": "  پینا کولادا ",
+        "price":  105000,
+        "subTitle": " آناناس،نارگیل ، سیروپ رام ، یخ" 
+        },
+        {
+        "id": 14,
+        "src": "src/Assets/Images/Makatel/makatel-14.webp",
+        "title": " دوغ ویژه",
+        "price":  50000
+        },
+        {
+        "id": 15,
+        "src": "src/Assets/Images/Makatel/makatel-15.webp",
+        "title": "  گرین سور",
+        "price":  95000,
+        "subTitle": " کیوی،سیب ترش، خیار، ریحان، لایم ، سودا" 
+        },
+        {
+        "id": 16,
+        "src": "src/Assets/Images/Makatel/makatel-16.webp",
+        "title": " رد بری ",
+        "price":  110000,
+        "subTitle": " تمشک ، اخته، آلوخاکی،زرشک،لایم،سیروپ میکس قرمز" 
+        },
+        {
+        "id": 17,
+        "src": "src/Assets/Images/Makatel/makatel-17.webp",
+        "title": " پینا بری ",
+        "price":  115000,
+        "subTitle": " توت فرنگی، نارگیل ، آناناس" 
+        }
     ]
 }
