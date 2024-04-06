@@ -7,6 +7,7 @@ import MilkShake from '../../Feature/CafeMenu/MilkShake';
 import Smoothie from './Smoothie';
 import IceCoffee from './IceCoffee';
 import Cake from './Cake';
+import Vafel from './Vafel';
 
 const CafeMenu = () => {
   return (
@@ -21,6 +22,7 @@ const CafeMenu = () => {
      <Smoothie />
      <IceCoffee />
      <Cake />
+     <Vafel />
     </section>
       </>
   )

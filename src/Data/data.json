@@ -738,5 +738,25 @@
         "title": " بستنی اسپشیال میم",
         "price":  150000 
         }
+    ],
+    "vafel": [
+        {
+        "id": 1,
+        "src": "src/Assets/Images/Vafel/vafel-01.webp",
+        "title": "وافل نوتلا موز و بستنی",
+        "price":  170000 
+        },
+        {
+        "id": 2,
+        "src": "src/Assets/Images/Vafel/vafel-02.webp",
+        "title": "وافل توت فرنگی",
+        "price":  150000 
+        },
+        {
+        "id": 3,
+        "src": "src/Assets/Images/Vafel/vafel-03.webp",
+        "title": "وافل کره بادام زمینی",
+        "price":  150000 
+        }
     ]
 }
