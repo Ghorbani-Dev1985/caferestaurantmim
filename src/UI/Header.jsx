@@ -23,7 +23,7 @@ const Header = () => {
    {
     id: 3,
     title: "رستوران میم",
-    link: "/",
+    link: "/restaurantMenu",
    },
    {
     id: 4,
