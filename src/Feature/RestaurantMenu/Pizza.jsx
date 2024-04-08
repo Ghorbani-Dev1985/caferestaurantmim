@@ -3,7 +3,7 @@ import { MenuTitle } from '../../UI/MenuTitle'
 import data from '../../Data/data.json'
 import MenuItemsCard from '../../UI/MenuItemsCard'
 const Pizza = () => {
-  return (git 
+  return (
     <>
       <MenuTitle id="pizza" title="  پیتزا"/> 
       <div className='grid grid-cols-1 md:grid-cols-2 gap-5'>
