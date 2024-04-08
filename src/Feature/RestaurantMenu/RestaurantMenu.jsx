@@ -1,6 +1,7 @@
 import React from 'react'
 import Topmenu from './Topmenu'
 import Appetizer from './Appetizer'
+import Pizza from './Pizza'
 
 
 
@@ -11,6 +12,7 @@ const RestaurantMenu = () => {
         {/* Top menu */}
      <Topmenu />
      <Appetizer />
+     <Pizza />
     </section>
       </>
   )
