@@ -6,6 +6,7 @@ import Sandwich from './Sandwich'
 import Burger from './Burger'
 import Steak from './Steak'
 import Pasta from './Pasta'
+import Drinks from './Drinks'
 
 
 
@@ -21,6 +22,7 @@ const RestaurantMenu = () => {
      <Burger />
      <Steak />
      <Pasta />
+     <Drinks />
     </section>
       </>
   )

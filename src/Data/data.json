@@ -1245,5 +1245,55 @@
       "price": 260000,
       "subTitle": "فیله گوساله،فیله مرغ،قارچ،سس آلفردو،پنه،پودر پنیر پارمسان"
     }
+  ],
+  "drinks": [
+    {
+      "id": 1,
+      "src": "src/Assets/Images/Drinks/Drinks-01.webp",
+      "title": " کوکا",
+      "price": 20000
+    },
+    {
+      "id": 2,
+      "src": "src/Assets/Images/Drinks/Drinks-02.webp",
+      "title": " فانتا",
+      "price": 20000
+    },
+    {
+      "id": 3,
+      "src": "src/Assets/Images/Drinks/Drinks-03.webp",
+      "title": " اسپرایت",
+      "price": 20000
+    },
+    {
+      "id": 4,
+      "src": "src/Assets/Images/Drinks/Drinks-04.webp",
+      "title": " استوایی",
+      "price": 25000
+    },
+    {
+      "id": 5,
+      "src": "src/Assets/Images/Drinks/Drinks-05.webp",
+      "title": " زیرو",
+      "price": 20000
+    },
+    {
+      "id": 6,
+      "src": "src/Assets/Images/Drinks/Drinks-06.webp",
+      "title": " لیمو",
+      "price": 25000
+    },
+    {
+      "id": 7,
+      "src": "src/Assets/Images/Drinks/Drinks-07.webp",
+      "title": " دوغ",
+      "price": 20000
+    },
+    {
+      "id": 8,
+      "src": "src/Assets/Images/Drinks/Drinks-08.webp",
+      "title": " کلاسیک",
+      "price": 24000
+    }
   ]
 }
