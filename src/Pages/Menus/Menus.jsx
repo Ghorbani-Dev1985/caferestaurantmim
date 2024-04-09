@@ -13,7 +13,7 @@ const Menus = () => {
                 height={385}
                 alt="ghorbani-dev.ir"
                 src={RestaurantMenu}
-                className="object-fill"
+                className="object-fill hover:scale-90 hover:opacity-80 transition-all ease-linear duration-250"
               />
         </Link>
         <Link to="/cafeMenu">
@@ -22,7 +22,7 @@ const Menus = () => {
                 height={385}
                 alt="ghorbani-dev.ir"
                 src={CoffeeMenu}
-                className="object-fill"
+                className="object-fill hover:scale-90 hover:opacity-80 transition-all ease-linear duration-250"
               />
         </Link>
       </div>
