@@ -1123,53 +1123,104 @@
       "subTitle": " استیک مرغ،پنیر گودا ورقه ای،کاهو،گوجه،خیارشور،سس"
     },
     {
-        "id": 2,
-        "src": "src/Assets/Images/Burger/Burger-02.webp",
-        "title": "  مگا برگر",
-        "price": 240000,
-        "subTitle": " برگر160گرمی،مرغ مزه دار شده،پنیر گودا ورقه ای،گوجه،کاهو،خیار شور،سس مخصوص"
+      "id": 2,
+      "src": "src/Assets/Images/Burger/Burger-02.webp",
+      "title": "  مگا برگر",
+      "price": 240000,
+      "subTitle": " برگر160گرمی،مرغ مزه دار شده،پنیر گودا ورقه ای،گوجه،کاهو،خیار شور،سس مخصوص"
     },
     {
-        "id": 3,
-        "src": "src/Assets/Images/Burger/Burger-03.webp",
-        "title": " چیز برگر",
-        "price": 210000,
-        "subTitle": " برگر160گرمی،دوعدد پنیر گودا ورقه ای،پنیر موزارلا،کاهو،گوجه،خیارشور"
+      "id": 3,
+      "src": "src/Assets/Images/Burger/Burger-03.webp",
+      "title": " چیز برگر",
+      "price": 210000,
+      "subTitle": " برگر160گرمی،دوعدد پنیر گودا ورقه ای،پنیر موزارلا،کاهو،گوجه،خیارشور"
     },
     {
-        "id": 4,
-        "src": "src/Assets/Images/Burger/Burger-04.webp",
-        "title": " پاسترامی برگر",
-        "price": 310000,
-        "subTitle": " برگر160گرمی،پاسترامی،پنیر گودا ورقه ای،کاهو،گوجه،خیارشور،سس مخصوص"
+      "id": 4,
+      "src": "src/Assets/Images/Burger/Burger-04.webp",
+      "title": " پاسترامی برگر",
+      "price": 310000,
+      "subTitle": " برگر160گرمی،پاسترامی،پنیر گودا ورقه ای،کاهو،گوجه،خیارشور،سس مخصوص"
     },
     {
-        "id": 5,
-        "src": "src/Assets/Images/Burger/Burger-05.webp",
-        "title": " همبرگر",
-        "price": 190000,
-        "subTitle": "برگر160گرمی،کاهو،گوجه،خیارشور،سس مخصوص،"
+      "id": 5,
+      "src": "src/Assets/Images/Burger/Burger-05.webp",
+      "title": " همبرگر",
+      "price": 190000,
+      "subTitle": "برگر160گرمی،کاهو،گوجه،خیارشور،سس مخصوص،"
     },
     {
-        "id": 6,
-        "src": "src/Assets/Images/Burger/Burger-06.webp",
-        "title": " رویال برگر",
-        "price": 230000,
-        "subTitle": "برگر160گرمی،ژامبون گوشت،پنیر گودا ورقه ای،کاهو،گوجه،خیارشور،سس مخصوص"
+      "id": 6,
+      "src": "src/Assets/Images/Burger/Burger-06.webp",
+      "title": " رویال برگر",
+      "price": 230000,
+      "subTitle": "برگر160گرمی،ژامبون گوشت،پنیر گودا ورقه ای،کاهو،گوجه،خیارشور،سس مخصوص"
     },
     {
-        "id": 7,
-        "src": "src/Assets/Images/Burger/Burger-07.webp",
-        "title": " ماشروم برگر",
-        "price": 210000,
-        "subTitle": "برگر160گرمی،سس قارچ،پنیر گودا ورقه ای،کاهو،گوجه،خیارشور"
+      "id": 7,
+      "src": "src/Assets/Images/Burger/Burger-07.webp",
+      "title": " ماشروم برگر",
+      "price": 210000,
+      "subTitle": "برگر160گرمی،سس قارچ،پنیر گودا ورقه ای،کاهو،گوجه،خیارشور"
     },
     {
-        "id": 8,
-        "src": "src/Assets/Images/Burger/Burger-09.webp",
-        "title": " چوریتسو برگر",
-        "price": 260000,
-        "subTitle": "برگر160گرمی،سوسیس چوریتسو،پنیر گودا ورقه ای،کاهو،گوجه،خیارشور،سس مخصوص"
+      "id": 8,
+      "src": "src/Assets/Images/Burger/Burger-09.webp",
+      "title": " چوریتسو برگر",
+      "price": 260000,
+      "subTitle": "برگر160گرمی،سوسیس چوریتسو،پنیر گودا ورقه ای،کاهو،گوجه،خیارشور،سس مخصوص"
+    }
+  ],
+  "steak": [
+    {
+      "id": 1,
+      "src": "src/Assets/Images/Steak/Steak-01.webp",
+      "title": " مرغ پارمسان",
+      "price": 300000,
+      "subTitle": "سینه مرغ سوخاری شده300گرمی،پنیر موزارلا،پودر پنیر پارمسان،سبزیجات،زیتون،فلفل دلمه،سیب زمینی سرخ شده"
+    },
+    {
+      "id": 2,
+      "src": "src/Assets/Images/Steak/Steak-02.webp",
+      "title": " استیک مینیون",
+      "price": 590000,
+      "subTitle": "فیله گوساله400گرمی،پوره سیب زمینی،سبزیجات،سس مارسلا،سیب زمینی سرخ شده"
+    },
+    {
+      "id": 3,
+      "src": "src/Assets/Images/Steak/Steak-03.webp",
+      "title": " بشقاب رول سوخاری",
+      "price": 300000,
+      "subTitle": "دو رول مرغ سوخاری شده،سه حلقه پیاز سوخاری،پوره سیب زمینی،سبزیجات،سس سزار،سس قارچ،سیب زمینی سرخ شده"
+    },
+    {
+      "id": 4,
+      "src": "src/Assets/Images/Steak/Steak-04.webp",
+      "title": " استیک ریب آی",
+      "price": 720000,
+      "subTitle": " استیک ریب آی 500گرمی،پور سیب زمینی،سبزیجات،سس قارچ،سیب زمینی سرخ شده"
+    },
+    {
+      "id": 5,
+      "src": "src/Assets/Images/Steak/Steak-05.webp",
+      "title": " میکس گریل",
+      "price": 470000,
+      "subTitle": " فیله گوساله 200گرمی،مرغ مزه دار شده300گرمی،پوره سیب زمینی،سبزیجات،سس قارچ،سیب زمینی سرخ شده"
+    },
+    {
+      "id": 6,
+      "src": "src/Assets/Images/Steak/Steak-06.webp",
+      "title": " استیک تی بن",
+      "price": 890000,
+      "subTitle": " استیک تی بن 600-700گرمی،پوره سیب زمینی،سبزیجات،سس چری،سیب زمینی سرخ شده"
+    },
+    {
+      "id": 7,
+      "src": "src/Assets/Images/Steak/Steak-07.webp",
+      "title": " استیک چیکن",
+      "price": 290000,
+      "subTitle": " سینه مرغ مزه دار شده350گرمی،پوره سیب زمینی،سبزیجات،سس مخصوص،سیب زمینی سرخ شده"
     }
   ]
 }
