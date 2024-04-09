@@ -1,8 +1,10 @@
 import { Button, Image } from '@nextui-org/react'
+import { useNavigate } from "react-router-dom";
 import React from 'react'
 import { BiAlarmExclamation, BiFoodMenu } from 'react-icons/bi'
 import TopPreFooter from './../Assets/Images/Footer/topPreFooter.webp'
 const PreFooter = () => {
+  const navigate = useNavigate()
   return (
     <>
       <div className='container bg-preFooter flex-center mt-16'>
@@ -15,7 +17,7 @@ const PreFooter = () => {
           <BiAlarmExclamation className='size-5' />
           <span> نهار و شام ساعت 12:00 الی 24:00</span>
           </p>
-          <Button color="secondary" size='lg' variant="bordered" startContent={<BiFoodMenu/>}>
+          <Button onPress={() => navigate('/menus')} color="secondary" size='lg' variant="bordered" startContent={<BiFoodMenu/>}>
         منو کافه رستوران میم
       </Button> 
        <p className='mb-10'>جهت مشاهده منو کافه ، رستوران میتوانید از لینک بالا استفاده نمایید</p> 

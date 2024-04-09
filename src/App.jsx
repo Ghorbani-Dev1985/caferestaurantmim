@@ -6,6 +6,7 @@ import ContactUs from "./Pages/ContactUs/ContactUs"
 import ImageGallery from "./Pages/ImageGallery/ImageGallery"
 import CafeMenu from "./Pages/CafeMenu/CafeMenu"
 import RestaurantMenu from "./Pages/RestaurantMenu/RestaurantMenu"
+import Menus from "./Pages/Menus/Menus"
 
 
 
@@ -24,6 +25,7 @@ function App() {
           <Route path="/restaurantMenu" element={<RestaurantMenu />} />
           <Route path="/cafeMenu" element={<CafeMenu />} />
           <Route path="/imageGallery" element={<ImageGallery />} />
+          <Route path="/menus" element={<Menus />} />
           </Route>
         </Routes>
 
