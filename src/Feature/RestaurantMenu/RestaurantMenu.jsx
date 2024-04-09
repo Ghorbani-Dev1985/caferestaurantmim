@@ -3,6 +3,7 @@ import Topmenu from './Topmenu'
 import Appetizer from './Appetizer'
 import Pizza from './Pizza'
 import Sandwich from './Sandwich'
+import Burger from './Burger'
 
 
 
@@ -15,6 +16,7 @@ const RestaurantMenu = () => {
      <Appetizer />
      <Pizza />
      <Sandwich />
+     <Burger />
     </section>
       </>
   )
