@@ -1,9 +1,10 @@
 import React from 'react'
 import { AddressItems } from '../../UI/Footer'
+import AddressMap from '../../UI/AddressMap'
 
 const AboutUs = () => {
   return (
-    <section className='container relative min-h-screen mt-6'>
+    <section className='container relative mt-6'>
         <div className='flex-col md:flex-row flex-between gap-5'>
           <div>1</div>
           <div className='flex flex-1 flex-col gap-8'>
@@ -15,6 +16,9 @@ const AboutUs = () => {
            <AddressItems />
            </div>
           </div>
+        </div>
+        <div className='w-full my-12 rounded-lg overflow-hidden'>
+         <AddressMap style="h-72"/>
         </div>
         </section>
   )
