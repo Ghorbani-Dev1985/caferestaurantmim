@@ -190,7 +190,7 @@ const ImageMorphing = ({href}) => {
    
   return (
     <>
-      <svg  xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" className='size-[700px] text-white' viewBox="0 0 288 288">
+      <svg  xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" className='w-full h-full max-h-full max-w-full overflow-visible' viewBox="0 0 200 200">
 <clipPath id="fh" x1="70.711%" x2="0%" y1="70.711%" y2="0%">
 <path>
 	<animate  repeatCount="indefinite" attributeName="d" dur="8s"
@@ -383,7 +383,7 @@ const ImageMorphing = ({href}) => {
 	</path>
 </clipPath>
 	<g clipPath="url(#fh)">
-		<image className='size-[300px]' href={href} preserveAspectRatio="none" />
+		<image className='w-full h-auto' href={href} preserveAspectRatio="none" />
 	</g>
 
 </svg> 
