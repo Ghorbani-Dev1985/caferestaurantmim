@@ -52,17 +52,17 @@ const ImageGallery = () => {
       <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-10">
         {ImageItems.images.map(({ id, href }) => (
           <React.Fragment key={id}>
-          
+          <div className="relative max-w-xs overflow-hidden bg-cover bg-no-repeat cursor-pointer">
             <Image
             width={216}
             height={216}
-              alt="ghorbani-dev.ir"
-              src={href}
-              isZoomed
-              className="object-fill size-[216px] cursor-pointer hover:opacity-80"
-              onClick={() => handleClick(id , href)}
-              
+            alt="ghorbani-dev.ir"
+            src={href}
+            className="object-fill size-[220px] max-w-xs rounded-lg"
             />
+            <div onClick={() => handleClick(id , href)}
+        className="absolute bottom-0 left-0 right-0 top-0 h-full w-full z-20 rounded-lg overflow-hidden bg-primary bg-fixed opacity-0 transition-all duration-500 ease-linear hover:opacity-40"></div>
+            </div>
           </React.Fragment>
         ))}
       </div>
