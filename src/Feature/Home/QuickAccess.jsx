@@ -80,7 +80,7 @@ function QuickAccess() {
                     height={512}
                     alt="ghorbani-dev.ir"
                     src={src}
-                    className="object-fill"
+                    className="object-fill hover:scale-90 hover:opacity-80 transition-all ease-linear duration-250"
                   />
                 </HashLink>
             </React.Fragment>

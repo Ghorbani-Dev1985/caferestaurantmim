@@ -87,7 +87,7 @@ const Header = () => {
     </NavbarContent>
     <NavbarContent justify="end">
       <NavbarItem>
-      <Button as={Link} color="primary" href="#" radius='full' className='px-6' startContent={<BiCircle />}>
+      <Button as={Link} color="primary" href="/menus" radius='full' className='px-6' startContent={<BiCircle />}>
            منوها
           </Button>
       </NavbarItem>
