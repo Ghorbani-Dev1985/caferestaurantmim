@@ -5,7 +5,7 @@ import MenuItemsCard from '../../UI/MenuItemsCard'
 const Drinks = () => {
   return (
     <>
-      <MenuTitle id="#" title="  نوشیدنی"/> 
+      <MenuTitle id="drinks" title="  نوشیدنی"/> 
       <div className='grid grid-cols-1 md:grid-cols-2 gap-5'>
           
          {

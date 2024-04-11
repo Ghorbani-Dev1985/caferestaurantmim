@@ -2,6 +2,7 @@ import React from "react";
 import { Image } from "@nextui-org/react";
 import TopMenuSlider from "../../UI/TopMenuSlider";
 import { SwiperSlide } from "swiper/react";
+import { HashLink } from "react-router-hash-link";
 
 const topMenuItems = [
   {
@@ -56,7 +57,7 @@ const Topmenu = () => {
       <TopMenuSlider>
         {topMenuItems.map(({ id, src, link }) => (
           <SwiperSlide key={id} className="rounded-full">
-            <a href={`#${link}`}>
+            <HashLink to={`/cafeMenu#${link}`}>
               <Image
                 width={512}
                 height={512}
@@ -64,7 +65,7 @@ const Topmenu = () => {
                 src={src}
                 className="object-fill"
               />
-            </a>
+            </HashLink>
           </SwiperSlide>
         ))}
       </TopMenuSlider>
