@@ -1295,5 +1295,19 @@
       "title": " کلاسیک",
       "price": 24000
     }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "src": "src/Assets/Images/Blogs/blog-01.webp",
+      "title": "خوشمزه ترین برگر های جهان",
+      "content": ""
+    },
+    {
+      "id": 2,
+      "src": "src/Assets/Images/Blogs/blog-02.webp",
+      "title": "همه چیز درباره ی صبحانه انگلیسی!",
+      "content": ""
+    }
   ]
 }

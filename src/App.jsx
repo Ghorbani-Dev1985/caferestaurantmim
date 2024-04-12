@@ -8,6 +8,8 @@ import CafeMenu from "./Pages/CafeMenu/CafeMenu"
 import RestaurantMenu from "./Pages/RestaurantMenu/RestaurantMenu"
 import Menus from "./Pages/Menus/Menus"
 import AboutUs from "./Pages/AboutUs/AboutUs"
+import Blogs from "./Pages/Blogs/Blogs"
+import Blog from "./Pages/Blog/Blog"
 
 
 
@@ -28,6 +30,8 @@ function App() {
           <Route path="/cafeMenu" element={<CafeMenu />} />
           <Route path="/imageGallery" element={<ImageGallery />} />
           <Route path="/menus" element={<Menus />} />
+          <Route path="/blogs" element={<Blogs />} />
+          <Route path="/blog/:id" element={<Blog />} />
           </Route>
         </Routes>
 
