@@ -1,10 +1,10 @@
-import React from 'react'
-
+import BlogInfo from './../../Feature/Blog/Blog'
 const Blog = () => {
+    
   return (
-    <div>
-      blog
-    </div>
+    <>
+      <BlogInfo />
+    </>
   )
 }
 
