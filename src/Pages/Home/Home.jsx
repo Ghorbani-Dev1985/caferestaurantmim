@@ -4,6 +4,7 @@ import ImageMorphing from '../../UI/ImageMorphing'
 import QuickAccess from '../../Feature/Home/QuickAccess'
 import Menus from '../../Feature/Home/Menus'
 import { AboutUsItems } from '../AboutUs/AboutUs'
+import BlogsList from '../../Feature/Home/BlogsList'
 
 const Home = () => {
   return (
@@ -13,6 +14,7 @@ const Home = () => {
      <QuickAccess />
      <Menus />
      <AboutUsItems />
+     <BlogsList />
     </section>
     </div>
   )
