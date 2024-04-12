@@ -4,6 +4,7 @@ import QuickAccess from '../../Feature/Home/QuickAccess'
 import Menus from '../../Feature/Home/Menus'
 import { AboutUsItems } from '../AboutUs/AboutUs'
 import BlogsList from '../../Feature/Home/BlogsList'
+import AboutsUS from '../../Feature/Home/AboutsUS'
 
 const Home = () => {
   return (
@@ -15,6 +16,7 @@ const Home = () => {
      <AboutUsItems />
      <BlogsList />
     </section>
+    <AboutsUS />
     </div>
   )
 }

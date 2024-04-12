@@ -40,7 +40,7 @@ module.exports = {
         Shabnam: ["Shabnam" , "sans-serif"],
       },
       backgroundImage: {
-        'preFooter' : 'url("../../src/Assets/Images/Footer/footerPatern.png")',
+        'paternBg' : 'url("../../src/Assets/Images/Footer/footerPatern.png")',
          'Footer': 'linear-gradient(rgb(61,61,61), rgba(30,30,30,0.83)) , url("../../src/Assets/Images/Footer/footerPatern.png")'
     },
     },
@@ -69,6 +69,10 @@ module.exports = {
      } 
   }),
   require("tailwind-scrollbar"),
+  function ({ addVariant }) {
+    addVariant("child", "& > *");
+    addVariant("child-hover", "& > *:hover");
+  },
 ]
 
 }
