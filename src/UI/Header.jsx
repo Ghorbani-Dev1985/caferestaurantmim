@@ -8,7 +8,6 @@ import { NavLink } from 'react-router-dom';
 import { BiCircle } from "react-icons/bi";
 const Header = () => {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
-
   const menuItems = [
    {
     id: 1,
@@ -41,6 +40,7 @@ const Header = () => {
     link: "/contactUs",
    },
   ];
+  console.log(isMenuOpen)
   return (
     <>
     <section className='bg-secondary p-5'>
@@ -58,7 +58,7 @@ const Header = () => {
 <Navbar onMenuOpenChange={setIsMenuOpen} classNames={{base:"container rounded-lg top-5" , wrapper: "lg:max-w-[1280px] px-0"}}>
     <NavbarContent>
       <NavbarMenuToggle
-        aria-label={isMenuOpen ? "Close menu" : "Open menu"}
+        aria-label={isMenuOpen ? "Open menu" : "Close menu"}
         className="sm:hidden"
       />
       <NavbarBrand>
@@ -92,22 +92,21 @@ const Header = () => {
           </Button>
       </NavbarItem>
     </NavbarContent>
-    <NavbarMenu>
-      {menuItems.map((item, index) => (
-        <NavbarMenuItem key={`${item}-${index}`}>
-          <Link
-            color={
-              index === 2 ? "primary" : index === menuItems.length - 1 ? "danger" : "foreground"
-            }
-            className="w-full"
-            href="#"
-            size="lg"
-            >
-            {item}
-          </Link>
-        </NavbarMenuItem>
-      ))}
-    </NavbarMenu>
+
+        <NavbarMenu className='px-0 gap-0 pt-16'>
+        {
+            menuItems.map(({id , title , link}) => (
+                <React.Fragment key={id}>
+                <NavbarItem  className='bg-secondary text-primary child:p-5'>
+                <NavLink className={({isActive}) => isActive ? "w-full block bg-primary text-white" : "w-full block bg-secondary text-primary"} to={link}>
+                  {title}
+                </NavLink>
+              </NavbarItem>
+                </React.Fragment>
+            ))
+          }
+        </NavbarMenu>
+    
   </Navbar>
   <Divider className="mt-4 bg-primary/50" />
 </>
