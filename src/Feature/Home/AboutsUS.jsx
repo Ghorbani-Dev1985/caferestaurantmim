@@ -26,7 +26,7 @@ const AboutsUS = () => {
        </ul>
         </div>
         <div className='flex'>
-        <Image alt="ghorbani-dev.ir" src={ChefImg} className="object-fill" />
+        <Image alt="ghorbani-dev.ir" src={ChefImg} className="object-fill mb-8 md:mb-0" />
         </div>
         <div className='absolute flex-center bottom-0 right-0 left-0 z-20 mx-auto'>
         <Image alt="ghorbani-dev.ir" src={AboutUsButtonImg} className="object-fill rounded-none " />

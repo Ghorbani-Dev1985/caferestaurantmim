@@ -5,6 +5,7 @@ import Menus from '../../Feature/Home/Menus'
 import { AboutUsItems } from '../AboutUs/AboutUs'
 import BlogsList from '../../Feature/Home/BlogsList'
 import AboutsUS from '../../Feature/Home/AboutsUS'
+import ImageGallery from '../../Feature/Home/ImageGallery'
 
 const Home = () => {
   return (
@@ -17,6 +18,7 @@ const Home = () => {
      <BlogsList />
     </section>
     <AboutsUS />
+     <ImageGallery />
     </div>
   )
 }
