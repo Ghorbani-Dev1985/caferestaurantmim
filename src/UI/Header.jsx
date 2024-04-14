@@ -93,12 +93,14 @@ const Header = () => {
       </NavbarItem>
     </NavbarContent>
 
-        <NavbarMenu className='px-0 gap-0 pt-16'>
         {
+          isMenuOpen &&
+        <NavbarMenu onClick={() => setIsMenuOpen((prev) => !prev)} className='px-0 gap-0 pt-16'>
+          {
             menuItems.map(({id , title , link}) => (
                 <React.Fragment key={id}>
                 <NavbarItem  className='bg-secondary text-primary child:p-5'>
-                <NavLink className={({isActive}) => isActive ? "w-full block bg-primary text-white" : "w-full block bg-secondary text-primary"} to={link}>
+                <NavLink onClick={() => setIsMenuOpen((prev) => !prev)} className={({isActive}) => isActive ? "w-full block bg-primary text-white" : "w-full block bg-secondary text-primary"} to={link}>
                   {title}
                 </NavLink>
               </NavbarItem>
@@ -106,6 +108,7 @@ const Header = () => {
             ))
           }
         </NavbarMenu>
+          }
     
   </Navbar>
   <Divider className="mt-4 bg-primary/50" />
